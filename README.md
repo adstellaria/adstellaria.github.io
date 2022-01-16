@@ -6,7 +6,7 @@
 
 ## Decription
 
-This is my personal blogs built by Jekyll and based on the [Jasper theme](https://github.com/jekyllt/jasper/)
+This is my personal blog site published with Jekyll using [Jasper theme](https://github.com/jekyllt/jasper/)
 
 
 ## Copyright & License

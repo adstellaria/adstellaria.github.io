@@ -4,7 +4,8 @@
         <span class="hidden">Close</span>
     </a>
     <ul>
-        <li class="nav-home {% if page.current == 'home' %} nav-current{% endif %}" role="presentation"><a href="{{ site.baseurl }}">Home</a></li>        
+        <li class="nav-home {% if page.current == 'home' %} nav-current{% endif %}" role="presentation"><a href="{{ site.baseurl }}">Home</a></li>
+        <li class="nav-nav {% if page.current == 'nav' %} nav-current{% endif %}" role="presentation"><a href="{{ site.baseurl }}nav">Navigation</a></li>        
         <li class="nav-tech {% if page.url contains 'tech' %} nav-current{% endif %}" role="presentation"><a href="{{ site.baseurl }}tag/tech">Tech</a></li>
         <li class="nav-essay {% if page.url contains 'essay' %} nav-current{% endif %}" role="presentation"><a href="{{ site.baseurl }}tag/essay">Essay</a></li>
         <li class="nav-fiction {% if page.url contains 'fiction' %} nav-current{% endif %}" role="presentation"><a href="{{ site.baseurl }}tag/fiction">Fiction</a></li>

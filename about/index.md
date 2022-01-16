@@ -2,12 +2,12 @@
 layout: page
 title: About
 navigation: true
-logo: 'assets/images/ghost.png'
+logo: 'assets/images/logo2.png'
 current: about
 ---
 
-This is a demo blog for Ghost, it contains dummy content which allows you to click around and see what a Ghost blog running the default theme looks like.
+This is my personal blog site published with [Jekyll](https://jekyllrb.com/) using [Jasper](https://github.com/jekyllt/jasper/) theme, running on [Github Pages](https://docs.github.com/en/pages) at present.
 
-We use this for testing and for reference!
+Jasper is a port of [Ghost](https://ghost.org)'s default theme [Casper](https://github.com/tryghost/casper) [v1.3.7](https://github.com/TryGhost/Casper/releases/tag/1.3.7) for Jekyll inspired by [Kasper](https://github.com/rosario/kasper).
 
-If you'd like to set up your own blog, head on over to [https://ghost.org](https://ghost.org) and sign up.
+Blog Logo is inspired by [DesignEvo](https://www.designevo.com).

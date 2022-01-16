@@ -6,7 +6,7 @@ title: Hello World
 date: 2022-01-15 18:00:00(UTC+8)
 tags: essay
 subclass: 'post tag-essay'
-logo: 'assets/images/ghost.png'
+logo: 'assets/images/logo.png'
 author: stellar
 categories: stellar
 ---
