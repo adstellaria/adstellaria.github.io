@@ -11,4 +11,6 @@ author: stellar
 categories: stellar
 ---
 
-谨向这个世界致以最美好的祝愿!
+谨向这个复杂多元而变动不居的世界致以最美好的祝愿!
+
+Best wishes to this brave new world!

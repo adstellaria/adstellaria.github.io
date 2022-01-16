@@ -12,4 +12,5 @@ Here is a navigation of collections in this site.
 + [Tech](/tag/tech)
     + [Test](/tag/test)
 + [Eassy](/tag/essay)
+    + [Reading](/tag/reading)
 + [Fiction](/tag/fiction)
