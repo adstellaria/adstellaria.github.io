@@ -8,14 +8,14 @@ current: tag
 ---
 
 <!-- dynamically overriding backgrounds for tags as well as descriptions -->
-{% assign page_url = page.url | downcase %}
-{% if page_url contains '/tag/tech' %}
+{% assign page_url = page.url %}
+{% if page_url contains '/tag/Tech' %}
     {% assign new_cover='assets/images/cover3.jpg' %}
     {% assign tag_description='A summary of technical knowledge learned from road of growth.' %}
-{% elsif page_url contains '/tag/essay' %}
+{% elsif page_url contains '/tag/Essay' %}
     {% assign new_cover='assets/images/cover7.jpg' %}
     {% assign tag_description='Some ideas and thoughts.' %}
-{% elsif page_url contains '/tag/fiction' %}
+{% elsif page_url contains '/tag/Fiction' %}
     {% assign new_cover='assets/images/cover5.jpg' %}
     {% assign tag_description='Some original or traslated novels' %}
 {% endif %}
