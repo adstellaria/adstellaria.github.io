@@ -8,13 +8,14 @@ current: tag
 ---
 
 <!-- dynamically overriding backgrounds for tags as well as descriptions -->
-{% if page.url contains 'tech' %}
+{% assign page_url = page.url | downcase %}
+{% if page_url contains '/tag/tech' %}
     {% assign new_cover='assets/images/cover3.jpg' %}
     {% assign tag_description='A summary of technical knowledge learned from road of growth.' %}
-{% elsif page.url contains 'essay' %}
+{% elsif page_url contains '/tag/essay' %}
     {% assign new_cover='assets/images/cover7.jpg' %}
     {% assign tag_description='Some ideas and thoughts.' %}
-{% elsif page.url contains 'fiction' %}
+{% elsif page_url contains '/tag/fiction' %}
     {% assign new_cover='assets/images/cover5.jpg' %}
     {% assign tag_description='Some original or traslated novels' %}
 {% endif %}
@@ -32,7 +33,7 @@ current: tag
     </nav>
     <div class="vertical">
         <div class="main-header-content inner">
-            <h1 class="page-title">{{ page.tag | capitalize }}</h1>
+            <h1 class="page-title">{{ page.tag | replace: "-", " " }}</h1>
             <h2 class="page-description">
             {% if tag_description %}
                 {{ tag_description }}

@@ -4,7 +4,7 @@ cover: 'assets/images/cover2.jpg'
 navigation: True
 title: Hello World
 date: 2022-01-15 18:00:00(UTC+8)
-tags: essay
+tags: Essay
 subclass: 'post tag-essay'
 logo: 'assets/images/logo.png'
 author: stellar

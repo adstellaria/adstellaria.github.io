@@ -4,8 +4,8 @@ cover: 'assets/images/cover5.jpg'
 navigation: True
 title: 读《人有人的用处》所记
 date: 2022-01-16 16:00:00(UTC+8)
-tags: essay reading
-subclass: post tag-essay tag-reading
+tags: Essay Reading-Review
+subclass: post tag-essay tag-reading-Review
 logo: 'assets/images/logo.png'
 author: stellar
 categories: stellar
