@@ -9,8 +9,8 @@ current: nav
 
 Here is a navigation of collections in this site.
 
-+ [Tech](/tag/tech)
-    + [Test](/tag/test)
-+ [Eassy](/tag/essay)
-    + [Reading Review](/tag/reading-review)
-+ [Fiction](/tag/fiction)
++ [Tech](/tag/Tech)
+    + [Test](/tag/Test)
++ [Eassy](/tag/Essay)
+    + [Reading Review](/tag/Reading-Review)
++ [Fiction](/tag/Fiction)
