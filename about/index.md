@@ -6,7 +6,7 @@ logo: 'assets/images/logo2.png'
 current: about
 ---
 
-[Original Github Repository](https://github.com/DestinationStellar/destinationstellar.github.io)
+[Original Github Repository](https://github.com/adstellaria/adstellaria.github.io)
 
 This is my personal blog site published with [Jekyll](https://jekyllrb.com/) using [Jasper](https://github.com/jekyllt/jasper/) theme, running on [Github Pages](https://docs.github.com/en/pages) at present.
 

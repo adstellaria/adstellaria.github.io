@@ -11,7 +11,7 @@ timezone: 'Asia/Shanghai'
 name: '月垂星野'
 description: "星垂平野阔，月涌大江流"
 
-short_url: 'destinationstellar.github.io'
+short_url: 'adstellaria.github.io'
 google_analytics: UA-69281367-1
 disqus: username
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
@@ -46,11 +46,11 @@ plugins: [jekyll-paginate]
 # or "master" otherwise
 safe: false
 lsi: false
-username: DestinationStellar
-repo: destinationstellar.github.io
+username: adstellaria
+repo: adstellaria.github.io
 branch: source
-production_url:  https://destinationstellar.github.io/
-source_url:  https://github.com/DestinationStellar/destinationstellar.github.io/
+production_url:  https://adstellaria.github.io/
+source_url:  https://github.com/adstellaria/adstellaria.github.io/
 
 exclude:
   - README.md

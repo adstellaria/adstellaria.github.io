@@ -1,6 +1,6 @@
 # Stellar Blog
 
-[![Build Status](https://github.com/DestinationStellar/destinationstellar.github.io/actions/workflows/jekyll_build.yml/badge.svg)](https://github.com/DestinationStellar/destinationstellar.github.io/actions/workflows/jekyll_build.yml)
+[![Build Status](https://github.com/adstellaria/adstellaria.github.io/actions/workflows/jekyll_build.yml/badge.svg)](https://github.com/adstellaria/adstellaria.github.io/actions/workflows/jekyll_build.yml)
 [![Ruby](https://img.shields.io/badge/ruby-2.6.3-blue.svg?style=flat)](http://travis-ci.org/jekyllt/jasper)
 [![Jekyll](https://img.shields.io/badge/jekyll-3.9.0-blue.svg?style=flat)](http://travis-ci.org/jekyllt/jasper)
 
