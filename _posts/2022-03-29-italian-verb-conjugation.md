@@ -52,9 +52,9 @@ categories: stellar
 | :---------------: | :--: | :--: | :-----: | :-----: | :----: | :---: |
 |   直陈式现在时    | vado | vai  |   va    | andiamo | andate | vanno |
 
-| dare 给 托付 |  io  |  tu  | lui/lei |  noi  | voi  |  loro  |
-| :----------: | :--: | :--: | :-----: | :---: | :--: | :----: |
-| 直陈式现在时 |  do  | dai  |   da'   | diamo | date | da'nno |
+| dare 给 托付 |  io  |  tu  |  lui/lei  |  noi  | voi  |     loro     |
+| :----------: | :--: | :--: | :-------: | :---: | :--: | :----------: |
+| 直陈式现在时 |  do  | dai  | d&agrave; | diamo | date | d&agrave;nno |
 
 | stare 停 保持 在 |  io  |  tu  | lui/lei |  noi   |  voi  |  loro  |
 | :--------------: | :--: | :--: | :-----: | :----: | :---: | :----: |
@@ -62,9 +62,9 @@ categories: stellar
 
 第二组：
 
-|    essere    |  io  |  tu  | lui/lei |  noi  |  voi  | loro |
-| :----------: | :--: | :--: | :-----: | :---: | :---: | :--: |
-| 直陈式现在时 | sono | sei  |   e'    | siamo | siete | sono |
+|    essere    |  io  |  tu  | lui/lei  |  noi  |  voi  | loro |
+| :----------: | :--: | :--: | :------: | :---: | :---: | :--: |
+| 直陈式现在时 | sono | sei  | &egrave; | siamo | siete | sono |
 
 |    avere     |  io  |  tu  | lui/lei |   noi   |  voi  | loro  |
 | :----------: | :--: | :--: | :-----: | :-----: | :---: | :---: |
@@ -76,7 +76,7 @@ categories: stellar
 
 | potere 能够 |  io  |  tu  | lui/lei |   noi    |  voi   | loro  |
 | :--------------: | :--: | :--: | :-----: | :------: | :----: | :---: |
-|   直陈式现在时   |  posso  | puoi |   puo'   | possiamo | potete | possono |
+|   直陈式现在时   |  posso  | puoi |   pu&ograve;   | possiamo | potete | possono |
 
 | dovere 必须 应当 |     io     |  tu  | lui/lei |   noi    |  voi   |      loro      |
 | :--------------: | :--------: | :--: | :-----: | :------: | :----: | :------------: |
