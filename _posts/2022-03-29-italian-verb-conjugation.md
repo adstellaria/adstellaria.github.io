@@ -141,14 +141,14 @@ categories: stellar
 | <mark>vivere</mark> | 生活 | <mark>vedere</mark>   | 看         | <mark>leggere</mark> | 读        |
 | rispondere          | 回答 | <mark>prendere</mark> | 拿 取 乘坐 | conoscere            | 了解 懂得 |
 | chiudere            | 关   | chiedere              | 问         | permettere           | 允许      |
+| accendere           | 点火 | spegnere              | 熄灭 扑灭  |                      |           |
 
 第三组 第一类
 
-| 意       | 汉        | 意      | 汉        | 意        | 汉        |
-| -------- | --------- | ------- | --------- | --------- | --------- |
-| aprire   | 开        | offrire | 提供 供给 | partire   | 离去 出发 |
-| coprire  | 遮盖 掩盖 | dormire | 睡觉      | accendere | 点火      |
-| spegnere | 熄灭 扑灭 | sentire | 听见 听到 |           |           |
+| 意      | 汉        | 意      | 汉        | 意      | 汉        |
+| ------- | --------- | ------- | --------- | ------- | --------- |
+| aprire  | 开        | offrire | 提供 供给 | partire | 离去 出发 |
+| coprire | 遮盖 掩盖 | dormire | 睡觉      | sentire | 听见 听到 |
 
 第三组 第二类
 
