@@ -2,7 +2,7 @@
 layout: post
 cover: 'assets/images/cover6.jpg'
 navigation: True
-title: 意大利语语法整理
+title: 意大利语单词句式整理
 date: 2022-06-02 20:00:00(UTC+8)
 tags: Italian
 subclass: post tag-italian
@@ -53,7 +53,7 @@ categories: stellar
    Ci sono quattro persone nella mia famiglia
    La mia famiglia e' composta da quattro persone
 
-10. ==Da quanto tempo studia l'italiano?==
+10. <mark>Da quanto tempo studia l'italiano?</mark>
     Da due mesi/settimane.
 
 11. Da quanti anni sei in Italia
