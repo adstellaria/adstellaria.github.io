@@ -124,7 +124,7 @@ categories: stellar
 | lasciare               | 留下 留给    | lavare                 | 洗 洗涤   | lavorare               | 劳动         |
 | mandare                | 派遣 派送    | mangiare               | 吃饭      | pagare                 | 支付 付款    |
 | parlare                | 说话 讲话    | <mark>pensare</mark>   | 想 思考   | <mark>portare</mark>   | 拿来 带来    |
-| provare                | 试验 尝试    | regalare               | 赠送      | ritornare              | 回 回来 返回 |
+| provare                | 试验 尝试    | <mark>regalare</mark>  | 赠送      | ritornare              | 回 回来 返回 |
 | salutare               | 打招呼 致意  | <mark>sperare</mark>   | 希望 盼望 | studiare               | 学习         |
 | telefonare             | 打电话       | <mark>tornare</mark>   | 回 回来   | <mark>trovare</mark>   | 找到 找着    |
 | usare                  | 用 使用 运用 | viaggiare              | 旅行 旅游 | visitare               | 拜访 探望    |
@@ -132,7 +132,9 @@ categories: stellar
 | <mark>aspettare</mark> | 等待         | svegliare              | 醒来      | alzare                 | 提 举 起床   |
 | raccontare             | 叙述 讲授    | <mark>diventare</mark> | 变成      | presentare             | 展示 介绍    |
 | chiamare               | 呼 唤        | pranzare               | 吃正餐    | spiegare               | 展开 解释    |
-| abitare                | 住           | guardare               | 注视      |                        |              |
+| abitare                | 住           | guardare               | 注视      | consigliare            | 建议         |
+| mancare                | 缺           | sembrare               | 似乎 seem | bastare                | 足够         |
+| interessare            | 使感兴趣     | restare                | 剩余余留  |                        |              |
 
 第二组：
 
@@ -149,10 +151,12 @@ categories: stellar
 | ------- | --------- | ------- | --------- | ------- | --------- |
 | aprire  | 开        | offrire | 提供 供给 | partire | 离去 出发 |
 | coprire | 遮盖 掩盖 | dormire | 睡觉      | sentire | 听见 听到 |
+| servire | 服务      |         |           |         |           |
 
 第三组 第二类
 
-| 意     | 汉        | 意     | 汉   | 意        | 汉        |
-| ------ | --------- | ------ | ---- | --------- | --------- |
-| finire | 结束 完成 | capire | 理解 | partire   | 离去 出发 |
-| capire | 懂 理解   | pulire | 打扫 | preferire | 偏好      |
+| 意      | 汉        | 意     | 汉   | 意        | 汉        |
+| ------- | --------- | ------ | ---- | --------- | --------- |
+| finire  | 结束 完成 | capire | 理解 | partire   | 离去 出发 |
+| capire  | 懂 理解   | pulire | 打扫 | preferire | 偏好      |
+| spedire | 寄送      |        |      |           |           |
