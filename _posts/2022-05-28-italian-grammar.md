@@ -130,7 +130,7 @@ questo questi questa queste
 quello 阳性名词前变形类似阳性定冠词 (bello也类似) quella quelle
 
 + il ristorante - quel/bel ristorante - quei/bei ristoranti
-+ lo spettacolo - quello/bello spettacolo - quegli/begli spettacoli
++ lo spettacolo - quello/bello spett acolo - quegli/begli spettacoli
 + l'uomo - quell'/bell'uomo - quegli/begli uomini
 
 ##### 物主形容词
@@ -174,7 +174,7 @@ quello 阳性名词前变形类似阳性定冠词 (bello也类似) quella quelle
 | ------ | ---------- | ------ | ---- | ------ | ---------- | ----- |
 | 总是   | 已经       | 立刻   | 绝不 | 仍然   | 更         | 也 还 |
 
-vera tanto
+vera tanto spesso
 
 近过去时中 副词用在助动词和过去分词之间
 
@@ -245,7 +245,7 @@ leggere parlare prendere compare fare pagare regalare spedire pulire
 
 疑问形容词：che - what quale - which quanto - how many
 
-疑问副词：quando - when dove - where come - how quanto - how many
+疑问副词：quando - when dove - where come - how quanto - how many perch&eacute; - why 
 
 #### 前置词
 
@@ -344,15 +344,17 @@ a还可以用来表示
 + 表达位于上方
 + 表达话题主题
 
+##### Fra 再过多少时间
+
 ##### 前置词缩合 前置词+定冠词
 
-|      | il   | lo    | l'    | la    | i    |
-| ---- | ---- | ----- | ----- | ----- | ---- |
-| di   | del  | dello | dell' | della | dei  |
-| a    | al   | allo  | all'  | alla  | ai   |
-| da   | dal  | dallo | dall' | dalla | dai  |
-| in   | nel  | nello | nell' | nella | nei  |
-| su   | sul  | sullo | sull' | sulla | sui  |
+|      | il   | i    | lo    | l'    | gli   | la    | le    |
+| ---- | ---- | ---- | ----- | ----- | ----- | ----- | ----- |
+| di   | del  | dei  | dello | dell' | degli | della | delle |
+| a    | al   | ai   | allo  | all'  | agli  | alla  | alle  |
+| da   | dal  | dai  | dallo | dall' | dagli | dalla | dalle |
+| in   | nel  | nei  | nello | nell' | negli | nella | nelle |
+| su   | sul  | sui  | sullo | sull' | sugli | sulla | sulle |
 
 #### 近过去时
 
@@ -391,3 +393,12 @@ vivino a 近
 
 lontano da 远
 
+prima di 在...之前 dopo ... 在...之后
+
+uscire da ... 从...出来
+
+sia ... sia/che ... 既... 也...
+
+avere sentito dire che 听说
+
+vale la pena

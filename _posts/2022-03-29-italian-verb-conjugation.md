@@ -133,8 +133,8 @@ categories: stellar
 | raccontare             | 叙述 讲授    | <mark>diventare</mark> | 变成      | presentare             | 展示 介绍    |
 | chiamare               | 呼 唤        | pranzare               | 吃正餐    | spiegare               | 展开 解释    |
 | abitare                | 住           | guardare               | 注视      | consigliare            | 建议         |
-| mancare                | 缺           | sembrare               | 似乎 seem | bastare                | 足够         |
-| interessare            | 使感兴趣     | restare                | 剩余余留  |                        |              |
+| <mark>mancare</mark>   | 缺           | <mark>sembrare</mark>  | 似乎 seem | bastare                | 足够         |
+| interessare            | 使感兴趣     | restare                | 剩余 余留 | passare                | 度过 通过    |
 
 第二组：
 
@@ -143,15 +143,15 @@ categories: stellar
 | <mark>vivere</mark> | 生活 | <mark>vedere</mark>   | 看         | <mark>leggere</mark> | 读        |
 | rispondere          | 回答 | <mark>prendere</mark> | 拿 取 乘坐 | conoscere            | 了解 懂得 |
 | chiudere            | 关   | chiedere              | 问         | permettere           | 允许      |
-| accendere           | 点火 | spegnere              | 熄灭 扑灭  |                      |           |
+| accendere           | 点火 | spegnere              | 熄灭 扑灭  | scrivere             | 写        |
 
 第三组 第一类
 
-| 意      | 汉        | 意      | 汉        | 意      | 汉        |
-| ------- | --------- | ------- | --------- | ------- | --------- |
-| aprire  | 开        | offrire | 提供 供给 | partire | 离去 出发 |
-| coprire | 遮盖 掩盖 | dormire | 睡觉      | sentire | 听见 听到 |
-| servire | 服务      |         |           |         |           |
+| 意      | 汉        | 意      | 汉        | 意                   | 汉        |
+| ------- | --------- | ------- | --------- | -------------------- | --------- |
+| aprire  | 开        | offrire | 提供 供给 | <mark>partire</mark> | 离去 出发 |
+| coprire | 遮盖 掩盖 | dormire | 睡觉      | <mark>sentire</mark> | 听见 听到 |
+| servire | 服务      |         |           |                      |           |
 
 第三组 第二类
 

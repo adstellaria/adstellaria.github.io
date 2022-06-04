@@ -81,9 +81,10 @@ categories: stellar
     
 18. In quanti siete nella tua famiglia?
 
-    Siamo in quattro: 
+    Siamo in quattro: mio padre ...
 
 19. Che lavoro fa tuo padre?
     Mio padre e' il direttore
 
-20. 
+20. Che cosa hai fatto lo scorso fine settimana？
+    Sono rimasto a casa studiare perch&eacute; fra non molto tempo dovr&ograve; dare due esami.
