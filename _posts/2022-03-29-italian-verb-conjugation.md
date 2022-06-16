@@ -94,6 +94,14 @@ categories: stellar
 | :----------: | :--: | :--: | :-----: | :-----: | :----: | :----: |
 | 直陈式现在时 | bevo | bevi |  beve   | beviamo | bevete | bevono |
 
+|   ottenere 获得、取得    |  io  |  tu  | lui/lei |   noi   |  voi   |  loro  |
+| :----------: | :--: | :--: | :-----: | :-----: | :----: | :----: |
+| 直陈式现在时 | ottengo | ottienti |  ottiene  | otteniamo | ottenete | ottengono |
+
+|   rimanere 停留    |  io  |  tu  | lui/lei |   noi   |  voi   |  loro  |
+| :----------: | :--: | :--: | :-----: | :-----: | :----: | :----: |
+| 直陈式现在时 | rimango | rimani |  rimane  | rimaniamo | rimanete | rimangono |
+
 第三组：
 
 |  dire 说 讲  |  io  |  tu  | lui/lei |   noi   | voi  |  loro  |
@@ -135,6 +143,7 @@ categories: stellar
 | abitare                | 住           | guardare               | 注视      | consigliare            | 建议         |
 | <mark>mancare</mark>   | 缺           | <mark>sembrare</mark>  | 似乎 seem | bastare                | 足够         |
 | interessare            | 使感兴趣     | restare                | 剩余 余留 | passare                | 度过 通过    |
+| inviare                | 寄送         |                       |        |                     |               |
 
 第二组：
 
@@ -144,6 +153,8 @@ categories: stellar
 | rispondere          | 回答 | <mark>prendere</mark> | 拿 取 乘坐 | conoscere            | 了解 懂得 |
 | chiudere            | 关   | chiedere              | 问         | permettere           | 允许      |
 | accendere           | 点火 | spegnere              | 熄灭 扑灭  | scrivere             | 写        |
+| mettere             | 放 摆 置 |     nascere       |   出生      |    correggere      |   改正    |
+| perdere             | 丢失   |       decidere      |    决定     |                    |          |
 
 第三组 第一类
 
@@ -157,6 +168,5 @@ categories: stellar
 
 | 意      | 汉        | 意     | 汉   | 意        | 汉        |
 | ------- | --------- | ------ | ---- | --------- | --------- |
-| finire  | 结束 完成 | capire | 理解 | partire   | 离去 出发 |
-| capire  | 懂 理解   | pulire | 打扫 | preferire | 偏好      |
-| spedire | 寄送      |        |      |           |           |
+| finire  | 结束 完成 | capire | 理解 | spedire | 寄送 |
+| pulire | 打扫 | preferire | 偏好      |    |    |
