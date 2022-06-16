@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+   
+      <title>adstellaria.github.io</title>
+   
+   <link></link>
+   <description>星垂平野阔，月涌大江流</description>
+   <language>zh-cn</language>
+   <managingEditor> </managingEditor>
+   <atom:link href="rss" rel="self" type="application/rss+xml" />
+   
+	<item>
+	  <title>Placeholder</title>
+	  <link>//placehodler</link>
+	  <author></author>
+	  <pubDate>2022-01-15T20:00:00+08:00</pubDate>
+	  <guid>//placehodler</guid>
+	  <description><![CDATA[
+	     <p>This is a placeholder for fiction tag.</p>
+
+	  ]]></description>
+	</item>
+
+
+</channel>
+</rss>
